@@ -22,8 +22,8 @@
 
 ### Languages
 
-- [:poland:] Polish
-- [:uk] English
+- :poland: Polish
+- :gb: English
 
 
 
