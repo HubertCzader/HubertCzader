@@ -1,4 +1,4 @@
-### Hello there, I'm Hubert 👋 
+# Hello there, I'm Hubert 👋 
 ## I'm a student of Automatics and Robotics at [AGH University of Science and Technology][AGH]
 
 - 🌱 I’m currently learning German and Russian
