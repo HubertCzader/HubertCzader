@@ -1,8 +1,10 @@
 # Hello there, I'm Hubert 👋 
-## I'm a student of Automatics and Robotics at [AGH University of Science and Technology][AGH]
+## I'm a student of Computer Science at [AGH University of Krakow][AGH]
+## I had Bachelor of Engineering degree in Automatics and Robotics
 
-- 🌱 I’m currently learning German and Russian
-- 🥅 2022 Goal: Learn new programming language, for example Java
+
+- 🌱 I’m currently learning German
+- 🥅 2024 Goal: Learn new programming language, for example Java
 - ⚡ Fun fact: I love sports, I train athletics on a daily basis
 
 ### Connect with me:
@@ -23,8 +25,9 @@
 
 ### Languages
 
-- :poland: Polish
-- :gb: English
+- :poland: Polish (Native)
+- :gb: English (B2)
+- :de: German (A2)
 
 
 
