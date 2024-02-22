@@ -1,6 +1,5 @@
 # Hello there, I'm Hubert 👋 
-## I'm a student of Computer Science at [AGH University of Krakow][AGH]
-## I had Bachelor of Engineering degree in Automatics and Robotics
+## I'm a student of Computer Science at [AGH University of Krakow][AGH] <br /> I have Bachelor of Engineering degree in Automatics and Robotics
 
 
 - 🌱 I’m currently learning German
@@ -9,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" >][linkedin]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 <br />
 
 ### Skills
@@ -33,3 +32,4 @@
 
 [AGH]: https://www.agh.edu.pl/en
 [linkedin]: https://www.linkedin.com/in/hubert-czader/
+[gmail]: mailto:hubertczader@gmail.com
